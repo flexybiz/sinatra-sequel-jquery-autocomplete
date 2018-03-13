@@ -1,5 +1,6 @@
 source :rubygems
 
+gem "rack", "~> 1.5.4"
 gem "sinatra"
 gem "sequel"
 gem "sqlite3"
